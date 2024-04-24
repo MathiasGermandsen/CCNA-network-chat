@@ -1,0 +1,14 @@
+/Users/mathias.germandsen/Desktop/client2/client2/bin/Debug/net8.0/client2
+/Users/mathias.germandsen/Desktop/client2/client2/bin/Debug/net8.0/client2.deps.json
+/Users/mathias.germandsen/Desktop/client2/client2/bin/Debug/net8.0/client2.runtimeconfig.json
+/Users/mathias.germandsen/Desktop/client2/client2/bin/Debug/net8.0/client2.dll
+/Users/mathias.germandsen/Desktop/client2/client2/bin/Debug/net8.0/client2.pdb
+/Users/mathias.germandsen/Desktop/client2/client2/obj/Debug/net8.0/client2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathias.germandsen/Desktop/client2/client2/obj/Debug/net8.0/client2.AssemblyInfoInputs.cache
+/Users/mathias.germandsen/Desktop/client2/client2/obj/Debug/net8.0/client2.AssemblyInfo.cs
+/Users/mathias.germandsen/Desktop/client2/client2/obj/Debug/net8.0/client2.csproj.CoreCompileInputs.cache
+/Users/mathias.germandsen/Desktop/client2/client2/obj/Debug/net8.0/client2.dll
+/Users/mathias.germandsen/Desktop/client2/client2/obj/Debug/net8.0/refint/client2.dll
+/Users/mathias.germandsen/Desktop/client2/client2/obj/Debug/net8.0/client2.pdb
+/Users/mathias.germandsen/Desktop/client2/client2/obj/Debug/net8.0/client2.genruntimeconfig.cache
+/Users/mathias.germandsen/Desktop/client2/client2/obj/Debug/net8.0/ref/client2.dll
