@@ -20,7 +20,7 @@ This project is a network chat application. The client-side of the application i
 2. Open the project by going to `File > Open > Project/Solution`, then navigate to and select the project file.
 3. Once the project is open, press `F5` or go to `Debug > Start Debugging` to start the program.
 
-### Starting the Client
+# Starting the Client
 
 The process to start the client is the same as running the application. Here are the steps for different environments:
 
