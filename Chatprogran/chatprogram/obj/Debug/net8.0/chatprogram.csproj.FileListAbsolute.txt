@@ -1,0 +1,14 @@
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/bin/Debug/net8.0/chatprogram
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/bin/Debug/net8.0/chatprogram.deps.json
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/bin/Debug/net8.0/chatprogram.runtimeconfig.json
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/bin/Debug/net8.0/chatprogram.dll
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/bin/Debug/net8.0/chatprogram.pdb
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/obj/Debug/net8.0/chatprogram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/obj/Debug/net8.0/chatprogram.AssemblyInfoInputs.cache
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/obj/Debug/net8.0/chatprogram.AssemblyInfo.cs
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/obj/Debug/net8.0/chatprogram.csproj.CoreCompileInputs.cache
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/obj/Debug/net8.0/chatprogram.dll
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/obj/Debug/net8.0/refint/chatprogram.dll
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/obj/Debug/net8.0/chatprogram.pdb
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/obj/Debug/net8.0/chatprogram.genruntimeconfig.cache
+/Users/mathias.germandsen/Desktop/Chatprogran/chatprogram/obj/Debug/net8.0/ref/chatprogram.dll
