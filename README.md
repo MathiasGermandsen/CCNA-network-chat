@@ -35,3 +35,10 @@ The process to start the client is the same as running the application. Here are
 1. Open Visual Studio 2022.
 2. Open the client project by going to `File > Open > Project/Solution`, then navigate to and select the client project file.
 3. Once the client project is open, press `F5` or go to `Debug > Start Debugging` to start the client.
+
+
+Sources used for this project
+https://learn.microsoft.com/en-us/dotnet/api/system.net.sockets.socket?view=net-8.0
+https://learn.microsoft.com/en-us/dotnet/api/system.text?view=net-8.0
+https://learn.microsoft.com/en-us/dotnet/api/system.threading?view=net-8.0
+
